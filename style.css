@@ -19,7 +19,7 @@ img {
 
     border-radius: 35px;
 
-    background-color: brown;
+    background-color: blanchedalmond;
     
     height: 14em;
     
@@ -27,10 +27,12 @@ img {
 
     font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 
+    text-align: left;
+
     
     }
 
     body {
-        background-color: #C0B1AE;
-        text-align: center
+        background-color: burlywood;
+        text-align: center;
         }
